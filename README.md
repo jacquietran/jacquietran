@@ -1,4 +1,10 @@
-### Hi there 👋
+### G'day, I'm Jacquie 👋 :eyeglasses:
+
+I’m a sport scientist and researcher working in elite sport. I like people, places, and things.
+
+- 🔭 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
+- 💬 Find me on Twitter: [**@jacquietran**](https://www.twitter.com/jacquietran).
+- 😄 Pronouns: she / her.
 
 <!--
 **jacquietran/jacquietran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
