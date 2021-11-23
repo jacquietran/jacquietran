@@ -3,6 +3,7 @@
 I’m a sport scientist and researcher working in elite sport. I like people, places, and things.
 
 - 🔭 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
+- 💻 Streaming on Twitch: [**/jacquietran**](https://twitch.tv/jacquietran).
 - 💬 Find me on Twitter: [**@jacquietran**](https://www.twitter.com/jacquietran).
 - 😄 Pronouns: she / her.
 
