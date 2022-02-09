@@ -1,4 +1,4 @@
-### G'day, I'm Jacquie 👋 :eyeglasses:
+## G'day, I'm Jacquie 👋 :eyeglasses:
 
 I'm a researcher and data scientist, working in elite sport. I like people, places, and things.
 
@@ -8,7 +8,7 @@ I'm a researcher and data scientist, working in elite sport. I like people, plac
 - 😄 Pronouns: she / her.
 - 💻 Coding languages: R, SQL, HTML, CSS.
 
-#### Open source contributions
+## Open source contributions
 
 | Type | Description | Links |
 |---|---|---|
