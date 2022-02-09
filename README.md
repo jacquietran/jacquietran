@@ -1,6 +1,6 @@
 ### G'day, I'm Jacquie 👋 :eyeglasses:
 
-I’m a sport scientist and researcher working in elite sport. I like people, places, and things.
+I'm a researcher and data scientist, working in elite sport. I like people, places, and things.
 
 - 👩‍🔧 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
 - 🎥 Live streaming on Twitch: [**/jacquietran**](https://twitch.tv/jacquietran).
@@ -10,12 +10,13 @@ I’m a sport scientist and researcher working in elite sport. I like people, pl
 
 #### Open source contributions
 
-- R packages:
-     - 🏀 `wnblr`: https://github.com/jacquietran/wnblr
-- [#TidyTuesday:](https://twitter.com/hashtag/TidyTuesday?src=hashtag_click)
-     - 🎤 Contributed the [Spice Girls data sets for 2021 Week 50](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-12-14/readme.md)
-- Tutorials:
-     - [Getting started with `geniusr`](https://jacquietran.github.io/using_geniusr)
+| Type | Description | Links |
+|---|---|---|
+| R package | 🏏 `cricketdata` [Author] | [CRAN version](https://cran.r-project.org/web/packages/cricketdata/index.html) // [Development version](https://github.com/robjhyndman/cricketdata) |
+| R package | 🏀 `wnblr` [Creator, Author] | [Development version](https://github.com/jacquietran/wnblr) |
+| [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hashtag_click) | Weekly data challenge in the R community | 🎤 Contributed the [Spice Girls data sets for 2021 Week 50](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-12-14/readme.md) |
+| Tutorial | Introduction to the `geniusr` package for retrieving song lyrics via the Genius.com API | [Getting started with `geniusr`](https://jacquietran.github.io/using_geniusr) |
+| Generative art | 🎨 Pieces created for the #genuary2022 daily challenge | Repo: [jacquietran/genuary_2022](https://github.com/jacquietran/genuary_2022/) |
 
 <!--
 **jacquietran/jacquietran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
