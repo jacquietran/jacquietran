@@ -2,8 +2,9 @@
 
 I'm a researcher and data scientist, working in elite sport. I like people, places, and things.
 
-- 👩‍🔧 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
+- 💻 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
 - 🎥 Live streaming on Twitch: [**/jacquietran**](https://twitch.tv/jacquietran).
+- 🎨 Making generative art: [**https://art.jacquietran.com**](https://art.jacquietran.com)
 - 💬 Find me on Twitter: [**@jacquietran**](https://www.twitter.com/jacquietran).
 - 😄 Pronouns: she / her.
 - 💻 Coding languages: R, SQL, HTML, CSS.
