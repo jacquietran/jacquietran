@@ -7,7 +7,7 @@ I'm a researcher and data scientist, working in elite sport. I like people, plac
 - 🎨 Making generative art: [**https://art.jacquietran.com**](https://art.jacquietran.com)
 - 💬 Find me on Twitter: [**@jacquietran**](https://www.twitter.com/jacquietran)
 - 😄 Pronouns: she / her
-- 💻 Coding languages: R, SQL, HTML, CSS
+- 💻 Coding languages: R, SQL, Shiny, HTML, CSS
 
 ## Open source contributions
 
