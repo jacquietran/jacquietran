@@ -18,6 +18,7 @@ I'm a researcher and data scientist, working in elite sport. I like people, plac
 | [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hashtag_click) | Weekly data challenge in the R community | 🎤 Contributed the [Spice Girls data sets for 2021 Week 50](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-12-14/readme.md) |
 | Tutorial | Introduction to the `geniusr` package for retrieving song lyrics via the Genius.com API | [Getting started with `geniusr`](https://jacquietran.github.io/using_geniusr) |
 | Generative art | 🎨 Pieces created for the #genuary2022 daily challenge | Repo: [jacquietran/genuary_2022](https://github.com/jacquietran/genuary_2022/) |
+| Generative art | *Feel The Illinoise!* - A Shiny app for making generative art using noise functions | [Feel The Illinoise!](https://jacquietran.shinyapps.io/feel_the_illinoise/) |
 
 <!--
 **jacquietran/jacquietran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
