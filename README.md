@@ -17,6 +17,7 @@ I'm a researcher and data scientist, working in elite sport. I like people, plac
 | R package | 🏀 `wnblr` [Creator, Author] | [Development version](https://github.com/jacquietran/wnblr) |
 | Data sets | Match data from the Rugby World Cup 2021 | Repo: [jacquietran/rwc_2021_data](https://github.com/jacquietran/rwc_2021_data) |
 | [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hashtag_click) | Weekly data challenge in the R community | 🎤 Contributed the [Spice Girls data sets for 2021 Week 50](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-12-14/readme.md) |
+| [#TidyTuesday](https://twitter.com/hashtag/TidyTuesday?src=hashtag_click) | Weekly data challenge in the R community | 🎤 Contributed the [Women's Rugby data sets for 2022 Week 21](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-05-24/readme.md) |
 | Tutorial | Introduction to the `geniusr` package for retrieving song lyrics via the Genius.com API | [Getting started with `geniusr`](https://jacquietran.github.io/using_geniusr) |
 | Generative art | 🎨 Pieces created for the #genuary2022 daily challenge | Repo: [jacquietran/genuary_2022](https://github.com/jacquietran/genuary_2022/) |
 | Generative art | *Feel The Illinoise!* - A Shiny app for making generative art using noise functions | [Feel The Illinoise!](https://jacquietran.shinyapps.io/feel_the_illinoise/) |
