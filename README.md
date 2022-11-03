@@ -5,7 +5,7 @@ I'm a researcher and data scientist, working in elite sport. I like people, plac
 - 💻 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
 - 🎥 Live streaming on Twitch: [**/jacquietran**](https://twitch.tv/jacquietran)
 - 🎨 Making generative art: [**https://art.jacquietran.com**](https://art.jacquietran.com)
-- 💬 Find me on Mastodon: <a rel="me" href="https://mastodon.social/@jacquietran">@jacquietran@mastodon.social</a>
+- 💬 Find me on Mastodon: <strong><a rel="me" href="https://mastodon.social/@jacquietran">@jacquietran@mastodon.social</a></strong>
 - 💬 Find me on Twitter (not for much longer): [**@jacquietran**](https://www.twitter.com/jacquietran)
 - 😄 Pronouns: she / her
 - 💻 Coding languages: R, SQL, Shiny, HTML, CSS
