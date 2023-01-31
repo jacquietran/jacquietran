@@ -8,8 +8,8 @@ I do human performance research, data analytics, and creative coding.
 - 💬 Find me on Mastodon: <strong><a rel="me" href="https://mastodon.social/@jacquietran">@jacquietran@mastodon.social</a></strong>
 - 💬 Find me on Twitter (not for much longer): [**@jacquietran**](https://www.twitter.com/jacquietran)
 - 😄 Pronouns: she / her
-- 💻 Coding languages: R, SQL, Shiny, HTML, CSS.
-- :zap: Currently learning: Unity, Japanese.
+- 💻 Coding languages: R, SQL, Shiny, HTML, CSS
+- :zap: Currently learning: Unity, Japanese, p5.js
 
 ## Open source contributions
 
