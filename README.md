@@ -1,15 +1,14 @@
 ## G'day, I'm Jacquie 👋 :eyeglasses:
 
-I do human performance research, data analytics, and creative coding.
+I work in data analytics, I do creative coding for fun, and I am a human performance scientist and researcher.
 
 - 💻 Posts on my analytics blog: [**Under The Hood**](https://underthehood.jacquietran.com)
 - 🎥 Live streaming on Twitch: [**/jacquietran**](https://twitch.tv/jacquietran)
 - 🎨 Making generative art: [**https://art.jacquietran.com**](https://art.jacquietran.com)
 - 💬 Find me on Mastodon: <strong><a rel="me" href="https://mastodon.social/@jacquietran">@jacquietran@mastodon.social</a></strong>
-- 💬 Find me on Twitter (not for much longer): [**@jacquietran**](https://www.twitter.com/jacquietran)
 - 😄 Pronouns: she / her
 - 💻 Coding languages: R, SQL, Shiny, HTML, CSS
-- :zap: Currently learning: Unity, Japanese, p5.js
+- :zap: Currently learning: Japanese 日本語
 
 ## Open source contributions
 
